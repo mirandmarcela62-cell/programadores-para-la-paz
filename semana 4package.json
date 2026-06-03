@@ -1,0 +1,9 @@
+{
+  "name": "semana4",
+  "version": " 1.0.0",
+  "main":"sever.js"
+  "dependencies":{
+     "express": "  "^4.18.2"
+  }
+}
+  
